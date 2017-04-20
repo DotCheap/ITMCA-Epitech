@@ -5,7 +5,7 @@ a quoi correspond 'd' en hexadecimal?;13
 que signifie wcf?;windows communication fondation
 le chiffre le plus a droite a toujours;le rang 0
 dans un systeme decimal la base est ?;10
-qui a invene la logique selon laquelle on exprime un etat en fonction de condition ?;george boole
+qui a invene la logique selon laquelle on exprime un etat en fonction de condition (1 ou 0)?;george boole
 quel est le support qui permet d'avoir le meilleur debit?;la fibre optique
 quelle sont les duex methodes possible pour convertir un nombre decimal en base B;soustraction  divisions
 quelle est la fonction d'un routeur?;trouver la route
@@ -114,3 +114,22 @@ que signifie ssii;societe service ingeniere info
 en quelle anne a ete envoye le premier e-mail ?;1971
 l'ethernet c'est ?;un type de reseau lan
 le bit le plus a droite s'appelle ?;le lsb
+a quoi correspond 'o' en hexadecimal ?;30
+la fonction or se represente par ?;'+'
+telephone supportant l'adsl un ordinateur esuipe d'une carte reseau un modem le cablage, que me faut t'il pour acceder a internet ?;un fai
+qu'est-ce que l'architecture de von neumann ?;structuration stockage actuel
+que signifie url ?;uniform ressource locator
+quelle commande lance correctement le firewall 'pf' ?;pfctl -e
+dans tcp/ip udp correspond a une couche ?;transport
+quelle est la particularite de colossus ?;totalement electronique
+que signifie afp ?;apple filling protocol
+un systeme d'exploitation distribue est equivalent a un systeme ?;reparti
+si plusieurs personnes peuvent se connecter sur une machine ayant un os, est-ce que cet os est un systeme multiutilisateur ?;non
+quel etais le poids de l'eniac ?;30 tonnes
+quel est le plus grand nombre possible qu'on peut coder avec un octet ?;255
+que signifie ntfs ?;new technologie filesysteme
+l'ordre correct des couche du modele osi est ?;p>l>r>t>s>p>a
+quel est l'autre nom du bus systeme ?;bus interne
+l'utilisation d'un masque de sous-reseau permet ?;de diviser un reseau en 2
+pour une memoire qu'est-ce qui permet d'acceder directement a l'information ?;l'adresse
+qui est douglas engelbart ?;l'inventeur de l'apanet
